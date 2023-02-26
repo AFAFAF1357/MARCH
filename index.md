@@ -1,30 +1,101 @@
 ---
-title: Home
+title: Oto moja strona
 layout: home
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+# Co każdy powinien wiedzieć o Czerwonym Kapturku<!-- omit in toc -->  
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+Spis treści   
 
-More specifically, the created site:
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+- [1. Wprowadzenie](#1-wprowadzenie)
+- [2. _Dramatis personae_](#2-dramatis-personae)
+- [3. Miejsca akcji](#3-miejsca-akcji)
+- [4. Zawartość koszyczka](#4-zawartość-koszyczka)
+- [5. Kapturek](#5-kapturek)
+- [6. Koszt wiktuałów](#6-koszt-wiktuałów)
+- [7. Zakończenie](#7-zakończenie)
+- [8. Kod](#8-kod)
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
 
-To get started with creating a site, just click "[use this template]"!
+## 1. Wprowadzenie
 
-----
+Czerony Kapturek (ang. _Little Red Riding Hood_) to mała dziewczynka mieszkająca w domku obok lasu. Nosiła często czerwoną czapeczkę, stąd jej przydomek. W głębi lasu mieszkała jej babcia. Gdy staruszka zachorowała, Kapturek postanowiła ją odwiedzić. A oto co było dalej.  
+Pewnego dnia Kapturek spakowała koszyczek. Włożyła do niego produkty z listy w punkcie [4](#4), bo była bardzo zorganizowaną dziewczynką, i udała się do lasu. 
+Po drodze zdarzyło się jej parę rzeczy, o których można poczytać [tutaj](https://pl.wikipedia.org/wiki/Czerwony_Kapturek). Jednak ogólnie nie zalecamy czytania streszczeń, ani też zbytniego polegania na Wikipedii.
 
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
+**Uwaga! Link może zawierać spoiler!**
 
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+ 
+For English version, see ![test2](../images/test.jpg)
+  
+_invalid image_
+
+## 2. _Dramatis personae_
+
+* Kapturek
+* Babcia Kapturka
+* Wilk
+* Leśniczy
+
+## 3. Miejsca akcji
+1. Domostwo Kapturka        
+	* Kuchnia 
+	* Spiżarnia
+	* Piwniczka z winem
+	* Sad
+2. Ciemny las
+3. Chatka Babci
+4. Dom Leśniczego
+
+## <a name="4"></a>4. Zawartość koszyczka
+A oto, co Kapturek miał w koszyczku:  
+| Lp. | Produkt | Kolor    | Szt. |
+| --- | ------- | -------- | ---- |
+| 1.  | Jabłka  | czerwone | 5    |
+| 2.  | Gruszki | zielone  | 3    |
+| 3.  | Wino    | czerwone | 1    |
+| 4.  | Miód    | miodowy  | 1    |
+| 5.  | Ciasto  | żółty    | 1    |
+
+## 5. Kapturek  
+A oto jak wyglada Kapturek. <sup>1.</sup>
+![kapturek](../images/czerwonykapturek.png "To jest Czerwony Kapturek")
+
+_invalid image_  
+
+<sup>1.</sup> Źródło: Internet, oczywiście.  `Tu próbowałam zrobić przypis dolny, ale to chyba jednak nie tak się robi.`
+
+## 6. Koszt wiktuałów  
+Babcia poczęstowała wiktuałami Wilka i Leśniczego. Obliczmy koszt na jedną postać.  Załóżmy, że zjedli i wypili dokładnie po równo, bo nie chcę za bardzo komplikować.  
+
+`I tak nie umiem tu zrobić spacji. Ale przypadkiem wyszedł mi indeks dolny. I emoji` :satisfied:
+
+$$ 
+Koszt/postaćzbajki = {(cena_jabłka\times5+cena_gruszki\times3+cena_butelki_wina+cena_miodu+cena_ciasta)  \over 3}
+$$
+
+
+## 7. Zakończenie  
+I, jak powiedział Adam Mickiewicz,  
+> „I ja tam byłem, miód i wino piłem.”
+
+Powiedział też, choć to akurat nie ma nic do rzeczy:  
+
+>> „Litwo,  Ojczyzno moja, Ty jesteś jak zdrowie,   
+ile Cię cenić trzeba, ten tylko się dowie,   
+kto Cię stracił. Dziś piękność Twą w całej ozdobie  
+widzę i opisuję, bo tęsknię po Tobie."
+>>  
+
+I to by było na tyle.
+## 8. Kod
+<!-- Example of a block of code -->  
+`Został jeszcze kod, ale tu na razie mam składnię i nie wiem, czym ją wypełnić. Na razie używam tego jako podświetlenia`.  
+
+Coś się wpisuje `tu` i to `daje taki efekt`. 
+  
+
+
+

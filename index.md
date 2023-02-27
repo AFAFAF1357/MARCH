@@ -28,6 +28,8 @@ Po drodze zdarzyło się jej parę rzeczy, o których można poczytać [tutaj](h
 **Uwaga! Link może zawierać spoiler!**
 Tutaj doszedł nowy tekst.
 
+A  to jest zupełknie nowy paragraf I może nowy obrazek ![szcz](images/toothbrush.jpg)
+
  
 For English version, see ![test2](images/test.jpg)
   

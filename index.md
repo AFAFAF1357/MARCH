@@ -17,7 +17,7 @@ Spis treści
 - [7. Zakończenie](#7-zakończenie)
 - [8. Kod](#8-kod)
 
-Tutaj jest zupełnie nowy paragraf. 
+Tutaj jest zupełnie nowy paragraf. Ten paragraf będzie o bajce o żelaznym wilku. 
 
 ## 1. Wprowadzenie
 

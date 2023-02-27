@@ -26,6 +26,7 @@ Pewnego dnia Kapturek spakowała koszyczek. Włożyła do niego produkty z listy
 Po drodze zdarzyło się jej parę rzeczy, o których można poczytać [tutaj](https://pl.wikipedia.org/wiki/Czerwony_Kapturek). Jednak ogólnie nie zalecamy czytania streszczeń, ani też zbytniego polegania na Wikipedii.
 
 **Uwaga! Link może zawierać spoiler!**
+Tutaj doszedł nowy tekst.
 
  
 For English version, see ![test2](images/test.jpg)
